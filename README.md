@@ -1,5 +1,5 @@
 # Crypto Connect
-Full stack web application where you can log in via Coinbase, stay updated on the latest assets, and track your portfolio.
+Full stack web application where you can log in via Coinbase, stay updated on the latest assets, and upvote or downvote other trades.
 
 # Key Technologies, Packages, and Gems
 ## Front end <br>
