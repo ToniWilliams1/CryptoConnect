@@ -3,9 +3,9 @@ Connect with fellow traders and the world around you. Crypto Connect is a full s
 
 # Key Technologies, Packages, and Gems
 ## Front end <br>
-DaisyUI <br>
-JavaScript <br>
-Tailwind CSS <br>
+•DaisyUI <br>
+•JavaScript <br>
+•Tailwind CSS <br>
 
 
 ## Back end
