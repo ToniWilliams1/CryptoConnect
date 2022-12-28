@@ -25,7 +25,7 @@ Multer
 
 Node.js
 
-Passport
+PassportJS Coinbase OAuth 2.0 Strategy
 
 # Core Features
 
