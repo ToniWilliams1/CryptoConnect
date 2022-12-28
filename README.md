@@ -3,23 +3,23 @@ Connect with fellow traders and the world around you. Crypto Connect is a full s
 
 # Key Technologies, Packages, and Gems
 ## Front end <br>
-•DaisyUI <br>
-•JavaScript <br>
-•Tailwind CSS <br>
+• DaisyUI <br>
+• JavaScript <br>
+• Tailwind CSS <br>
 
 
 ## Back end
-Express.js
+• Express.js
 
-Cloudinary
+• Cloudinary
 
-Coinlib API
+• Coinlib API
 
-Heroku
+• Heroku
 
-Mongo DB
+• Mongo DB
 
-Mongoose
+• Mongoose
 
 Multer
 
@@ -29,9 +29,9 @@ PassportJS Coinbase OAuth 2.0 Strategy
 
 # Core Features
 
-Users can create an account via email or log in through Coinbase, view live cryptocurrency prices, charts, and detailed coin data, and add coins to your portfolio.
+• Users can create an account via email or log in through Coinbase, view live cryptocurrency prices, charts, and detailed coin data, and add coins to your portfolio.
 
-Upvote your friends predictions on the news feed and see the hottest crypto buzz.
+•Rank your friends trades on the news feed and see the hottest crypto buzz.
 
 # Things to Add
 
