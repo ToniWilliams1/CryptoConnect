@@ -1,5 +1,5 @@
 # Crypto Connect
-Connect with friends and the world around you. Crypto Connect is a full stack web application where you can log in via Coinbase, stay updated on the latest assets, and rank other friends trades.
+Connect with fellow traders and the world around you. Crypto Connect is a full stack web application where you can log in via Coinbase, stay updated on the latest assets, and rank other friends trades.
 
 # Key Technologies, Packages, and Gems
 ## Front end <br>
